@@ -1,0 +1,3 @@
+This project aims to analyze the stock market performance of select major companies like Amazon, Facebook, Google, Microsoft and Apple. Focusing on key metrics that help investors make informed decisions.
+ By evaluating indicators such as trading volume, stock volatility (Beta), P/E ratios, dividend yields, and technical signals (MACD, RSI), we identify trends, patterns, and potential opportunities for buying or selling stocks. 
+The goal is to provide actionable insights that can guide investment strategies, optimize portfolios, and minimize risks. Through SQL queries, Power BI, Microsoft Excel data processing, and dashboards, this project offers a data-driven approach to understanding stock behavior over time.
